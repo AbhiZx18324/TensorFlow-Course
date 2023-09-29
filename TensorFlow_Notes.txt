@@ -1,0 +1,1 @@
+### The shape of each input must be same as that of each output label.
